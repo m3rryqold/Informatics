@@ -1,2 +1,2 @@
 # Informatics
-Cluster K informatics project 2016
+Cluster J informatics project 2016
